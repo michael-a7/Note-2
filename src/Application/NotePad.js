@@ -2,8 +2,7 @@ import React from 'react';
 function Notepad(){
     return(
         <div>
-            New notepad
-            This is a new branch
+            I'm listening to The Beatles
         </div>
     )
 }
