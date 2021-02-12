@@ -3,6 +3,7 @@ function Notepad(){
     return(
         <div>
             New notepad
+            This is a new branch
         </div>
     )
 }
